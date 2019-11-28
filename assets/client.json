@@ -1,0 +1,7 @@
+{
+  "serverAddress": "localhost:3000",
+  "image": {
+    "basePath" : "/img/",
+    "logoFile" : "logo.png"
+  }
+}

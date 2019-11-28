@@ -1,0 +1,20 @@
+{
+  "serverAddress": "localhost:3000",
+  "sound": {
+    "basePath" : "/sounds/",
+    "resources" : {
+      "start": "start.wav",
+      "intermission": "intermission.wav",
+      "period": "period.wav",
+      "question": "question.wav",
+      "readyGo": "ready_go.wav",
+      "gong": "gong.wav",
+      "answerCheck": "answer_check.wav",
+      "correctAnswer": "correct_answer.wav",
+      "ranking": "ranking.wav",
+      "descendingRanking": "descending_ranking.wav",
+      "winner": "winner.wav",
+      "failed": "failed.wav"
+    }
+  }
+}
